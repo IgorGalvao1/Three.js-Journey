@@ -180,6 +180,8 @@ const tick = () =>
 {
     const elapsedTime = clock.getElapsedTime()
 
+    points.rotation.y = 0.15 * elapsedTime
+
     // Update controls
     controls.update()
 
