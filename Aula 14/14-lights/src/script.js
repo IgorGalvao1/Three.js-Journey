@@ -52,20 +52,20 @@ scene.add(spotLight)
 scene.add(spotLight.target)
 
 //Helpers // ajuda o posicionamento das luzes
-// const hemisphereLightHelper = new THREE.HemisphereLightHelper(hemisphereLight, 0.2)
-// scene.add(hemisphereLightHelper)
+const hemisphereLightHelper = new THREE.HemisphereLightHelper(hemisphereLight, 0.2)
+scene.add(hemisphereLightHelper)
 
-// const directionalLightHelper = new THREE.DirectionalLightHelper(directionalLight, 0.2)
-// scene.add(directionalLightHelper)
+const directionalLightHelper = new THREE.DirectionalLightHelper(directionalLight, 0.2)
+scene.add(directionalLightHelper)
 
-// const pointLightHelper = new THREE.PointLightHelper(pointLight, 0.2)
-// scene.add(pointLightHelper)
+const pointLightHelper = new THREE.PointLightHelper(pointLight, 0.2)
+scene.add(pointLightHelper)
 
-// const spotLightHelper = new THREE.SpotLightHelper(spotLight)
-// scene.add(spotLightHelper)
+const spotLightHelper = new THREE.SpotLightHelper(spotLight)
+scene.add(spotLightHelper)
 
-// const rectAreaLightHelper = new RectAreaLightHelper(rectAreaLight)
-// scene.add(rectAreaLightHelper)
+const rectAreaLightHelper = new RectAreaLightHelper(rectAreaLight)
+scene.add(rectAreaLightHelper)
 
 /**
  * Objects
