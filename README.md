@@ -12,3 +12,8 @@ https://haunted-house-threejs-bice.vercel.app/ <br><br>
 <h2> - Lesson 18 - Galaxy Generator</h2> <br>
 https://galaxy-generator-threejs-one.vercel.app/ <br><br>
 <img src="https://github.com/user-attachments/assets/03c40bbb-7399-428f-a77b-5760f5b8352e" width="400">
+
+<h2> - Lesson 19 - Scroll Based Animation </h2> <br>
+https://scroll-based-animation-rho.vercel.app/ <br><br>
+<img src="https://github.com/user-attachments/assets/5facfd65-9aa1-463e-857a-cd5c39baeaf9" width="400">
+
