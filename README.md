@@ -17,3 +17,14 @@ https://galaxy-generator-threejs-one.vercel.app/ <br><br>
 https://scroll-based-animation-rho.vercel.app/ <br><br>
 <img src="https://github.com/user-attachments/assets/5facfd65-9aa1-463e-857a-cd5c39baeaf9" width="400">
 
+<h2> - Lesson 29 - raging sea </h2> <br>
+https://raging-sea-ruddy.vercel.app/ <br><br>
+<img src="https://github.com/user-attachments/assets/0da1633a-9397-4a43-bfdf-dc367a78f16a" width="400">
+
+<h2> - Lesson 30 - Animated Galaxy </h2> <br>
+https://animated-galaxy-nine.vercel.app/ <br><br>
+<img src="https://github.com/user-attachments/assets/3fbbb823-d4fe-405f-bc88-7c466a50b4c9" width="400">
+
+<h2> - Lesson 31 - Modified Material </h2> <br>
+https://shader-basic-material.vercel.app/ <br><br>
+<img src="https://github.com/user-attachments/assets/2ac55d94-5f5c-42a5-84e6-175ec181d8f2" width="400">
