@@ -79,7 +79,8 @@ const portalLightMaterial = new THREE.ShaderMaterial({
         uColorEnd: { value: new THREE.Color(debugObject.portalColorEnd) }
     },
     vertexShader: portalVertexShader,
-    fragmentShader: portalFragmentShader
+    fragmentShader: portalFragmentShader,
+    side: THREE.DoubleSide
 })
 
 
