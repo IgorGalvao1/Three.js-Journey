@@ -35,7 +35,7 @@ gltfLoader.setDRACOLoader(dracoLoader)
 /**
  * Textures
  */
-const bakedTexture = textureLoader.load('baked.jpg')
+const bakedTexture = textureLoader.load('meubaked.jpg')
 bakedTexture.flipY = false
 bakedTexture.colorSpace = THREE.SRGBColorSpace
 
@@ -58,7 +58,7 @@ const poleLightMaterial = new THREE.MeshBasicMaterial({ color: 0xffffe5 })
  * Model
  */
 gltfLoader.load(
-    'portal.glb',
+    'meuportal.glb',
     (gltf) =>
     {
         gltf.scene.traverse((child) =>
